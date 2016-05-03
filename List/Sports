@@ -115,19 +115,19 @@
 
 <item>
 <title>BT SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/saraceno/saraceno/9032.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9032.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9033.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9033.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT EUROPE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9034.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9034.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -241,43 +241,43 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9024.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9024.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9025.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9025.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9026.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9026.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9027.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9027.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9028.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9028.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9030.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9030.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/emmanuele/emmanuele/9031.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/liborio2/liborio2/9031.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
