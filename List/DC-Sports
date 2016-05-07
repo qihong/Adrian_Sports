@@ -5,3 +5,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/7HM6GuHAg3/ahw9NaOWx6/8010.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
+
+<item>
+<title>MIO STADIUM 102</title>
+<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/7HM6GuHAg3/ahw9NaOWx6/10919.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch108.jpg</thumbnail>
+</item>
