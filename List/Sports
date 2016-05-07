@@ -121,19 +121,19 @@
 
 <item>
 <title>BT SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/617.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9835.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/618.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9839.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT EUROPE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/614.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9836.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -265,13 +265,13 @@
 
 <item>
 <title>SKY BUNDESLIGA 3 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/leo1/leo1/3013.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9177.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
 </item>
 
 <item>
 <title>SKY BUNDESLIGA 4 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/leo1/leo1/3014.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9178.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
 </item>
 
