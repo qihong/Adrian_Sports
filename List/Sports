@@ -2,25 +2,25 @@
 
 <item>
 <title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/astrosp1&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/868.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/astrosp2&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/869.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/astrosp3&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/870.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPERSPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/astrosp4&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/871.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
 
@@ -115,7 +115,7 @@
 
 <item>
 <title>BOX NATION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/623.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1717.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://mmanytt.se/wp-content/uploads/2013/06/Box_nation_logo.jpg</thumbnail>
 </item>
 
@@ -151,7 +151,7 @@
 
 <item>
 <title>CANAL+ SPORT FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/leo1/leo1/3566.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/205.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/canalplus_sport_logo.png?bc=white&w=575</thumbnail>
 </item>
 
@@ -205,13 +205,13 @@
 
 <item>
 <title>FOX SPORTS 1 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/bYZR4&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/644.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/bYZR7&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -318,26 +318,14 @@
 </item>
 
 <item>
-<title>SPORTSNET 360</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/sn360&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2015/07/sportsnet-logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>SPORTSNET ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/snone&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2015/07/sportsnet-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPORTSNET ONTARIO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/snontario&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/2769.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2015/07/sportsnet-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SPORTSNET WORLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.do/snworld&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/2770.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2015/07/sportsnet-logo.jpg</thumbnail>
 </item>
 
@@ -355,18 +343,18 @@
 
 <item>
 <title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/leo1/leo1/4596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2321.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/leo1/leo1/4597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2206.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/leo1/leo1/4598.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2322.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
