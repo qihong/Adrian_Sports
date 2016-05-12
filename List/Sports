@@ -313,19 +313,19 @@
 
 <item>
 <title>SKY SPORTS NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvgafsa.ddns.net:8000/live/tiger/tiger/9575.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/elan/elan/2761.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SPORTSNET ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/2769.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/elan/elan/4590.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2015/07/sportsnet-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SPORTSNET WORLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/2770.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/elan/elan/4592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2015/07/sportsnet-logo.jpg</thumbnail>
 </item>
 
