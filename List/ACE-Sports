@@ -65,6 +65,18 @@
 </item>
 
 <item>
+<title>FOX SPORTS 1 USA</title>
+<link>plugin://program.plexus/?url=a05d6983a4b4d54b794d3b0f70ad7a3018470f2a&amp;mode=1&amp;name=AdrianSports</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 USA</title>
+<link>plugin://program.plexus/?url=2244c07f08a599cb34ff35af3f40d11fd90ad71d&amp;mode=1&amp;name=AdrianSports</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 1</title>
 <link>plugin://program.plexus/?url=2277a028fd97bab798c5c123b72e64d42e799690&amp;mode=1&amp;name=AdrianSports</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
