@@ -121,19 +121,19 @@
 
 <item>
 <title>BT SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/1488.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1118.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/1487.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1117.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT EUROPE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2737.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/1562.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
 </item>
 
@@ -205,13 +205,13 @@
 
 <item>
 <title>FOX SPORTS 1 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2212.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1483.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2213.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1484.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -235,13 +235,13 @@
 
 <item>
 <title>SKY SPORTS 1 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/976.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/981.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/975.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/980.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
 </item>
 
@@ -258,56 +258,38 @@
 </item>
 
 <item>
-<title>SKY BUNDESLIGA 2 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
-</item>
-
-<item>
-<title>SKY BUNDESLIGA 3 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2417.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
-</item>
-
-<item>
-<title>SKY BUNDESLIGA 4 DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2416.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/59/Sky_Bundesliga.png/revision/latest?cb=20141218001304</thumbnail>
-</item>
-
-<item>
 <title>SKY SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/824.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1044.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/823.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1043.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/822.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1042.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/821.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1041.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/820.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1040.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/819.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1039.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
@@ -343,18 +325,18 @@
 
 <item>
 <title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2321.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1480.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2206.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1479.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
 <item>
 <title>TSN 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/oman/oman/2322.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami/123/1478.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
