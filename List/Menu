@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>LIVE EVENTS/GAMES</title>
+<thumbnail>http://ipcmz1jjy9s29h4r41bi0uf1.wpengine.netdna-cdn.com/wp-content/uploads/2014/04/youtube-live-512x500.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/fanart.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/List/LIVE-GAMES</externallink>
+</item>
+
+<item>
 <title>UEFA CHAMPIONS LEAGUE FINAL</title>
 <thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/fanart.png</fanart>
