@@ -11,8 +11,32 @@
 </item>
 
 <item>
+<title>REAL MADRID VS ATLETICO MADRID - TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/2204.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID VS ATLETICO MADRID - BEIN FR 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1032.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>REAL MADRID VS ATLETICO MADRID - SKY SP DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/976.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID VS ATLETICO MADRID - SPORT TV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1969.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID VS ATLETICO MADRID - ZIGGO SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/2622.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
 </item>
 
