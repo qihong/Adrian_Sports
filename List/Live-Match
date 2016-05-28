@@ -12,7 +12,19 @@
 
 <item>
 <title>REAL MADRID VS ATLETICO MADRID - TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat98/mbw54RDx6G/1031.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cdn02.selling-team.net:8000/live/49JRfRYKfp/BIOFAEXP1607/15762.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID VS ATLETICO MADRID - TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdn02.selling-team.net:8000/live/49JRfRYKfp/BIOFAEXP1607/15764.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID VS ATLETICO MADRID - TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdn02.selling-team.net:8000/live/49JRfRYKfp/BIOFAEXP1607/15765.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
 </item>
 
@@ -24,7 +36,13 @@
 
 <item>
 <title>REAL MADRID VS ATLETICO MADRID - BEIN AR 11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://uptv.mine.nu:8282/live/redline/redline/1212.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgX/526.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID VS ATLETICO MADRID - PREMIUM SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat98/mbw54RDx6G/107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
 </item>
 
@@ -37,12 +55,6 @@
 <item>
 <title>REAL MADRID VS ATLETICO MADRID - ZIGGO SPORT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/13299.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>REAL MADRID VS ATLETICO MADRID - PREMIUM SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat98/mbw54RDx6G/107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.soccer365.com/wp-content/uploads/2015/12/uefa-champions-league-logo.jpg</thumbnail>
 </item>
 
