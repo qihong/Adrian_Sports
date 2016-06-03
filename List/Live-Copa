@@ -5,6 +5,18 @@
 </item>
 
 <item>
+<title>USA VS COLOMBIA - KOMPAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/kompastv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://api.mivo.com/v3/mobile/channels/wms-auth</page>
+<referer>http://api.mivo.com/</referer>
+</regex>
+<thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
+</item>
+
+<item>
 <title>USA VS COLOMBIA - PREMIER SP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://cdn02.selling-team.net:8000/live/49JRfRYKfp/BIOFAEXP1607/4828.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
