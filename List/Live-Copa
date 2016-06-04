@@ -5,61 +5,43 @@
 </item>
 
 <item>
-<title>USA VS COLOMBIA - LETV</title>
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=yanboshi18_5000&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
-<thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
-</item>
-
-<item>
-<title>USA VS COLOMBIA - PREMIER SP</title>
+<title>COSTA RICA VS PARAGUAY - PREMIER SP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://213.136.90.30:8000/live/sk3/sk3/15228.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
-<item>
-<title>USA VS COLOMBIA - FOX SP USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/2495.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
-</item>
-
-<item>
-<title>USA VS COLOMBIA - FOX SP USA</title>
-<link>http://hd4u.tvonip.biz:8588/six_dish_fs1/index.m3u8</link>|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
-</item>
-
-<item>
+item>
 <title>USA VS COLOMBIA - BEIN FR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/190.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>USA VS COLOMBIA - CANAL FUTBOL ES</title>
+<title>COSTA RICA VS PARAGUAY - CANAL FUTBOL ES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/388.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>USA VS COLOMBIA - FOX SPORTS NL</title>
+<title>COSTA RICA VS PARAGUAY - FOX SPORTS NL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/1574.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>USA VS COLOMBIA - SKY SP IT</title>
+<title>COSTA RICA VS PARAGUAY - SKY SP IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat14/customer14/82.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>USA VS COLOMBIA - SKY SUPER CALCIO IT</title>
+<title>COSTA RICA VS PARAGUAY - SKY SUPER CALCIO IT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat14/customer14/95.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
 
 <item>
-<title>USA VS COLOMBIA - ARENA SP</title>
+<title>COSTA RICA VS PARAGUAY - ARENA SP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/2520.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
 </item>
