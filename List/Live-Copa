@@ -5,6 +5,12 @@
 </item>
 
 <item>
+<title>[COLOR blue]ARGENTINA VS CHILE[/COLOR] - LETV</title>
+<link>http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</link>
+<thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue]ARGENTINA VS CHILE[/COLOR] - CANAL FUTBOL ES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/388.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.ca2016.com/uploads/10/08/SOC_1511100_copa_venues-map-1140x580v2-500x500-trim_perc(0.203,0,0.7122,1).png?token=2940f62a82b4a88eb41fdc75cefd08ca</thumbnail>
