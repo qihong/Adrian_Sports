@@ -5,62 +5,77 @@
 </item>
 
 <item>
-<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] - TSN1</title>
+<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] LINK 1</title> ---- TSN1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/backuptsn1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] - ITV1</title>
+<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] LINK 2</title> ---- ITV1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/backupitv1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] - BEIN FR</title>
+<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] LINK 3</title> ---- BEIN 1 FR
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/190.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] - SKY SP IT</title>
+<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] LINK 4</title> ---- SKY SP 1 IT
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat14/customer14/82.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] - SPORT TV1</title>
+<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] LINK 5</title> ---- SPORT TV1
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat14/customer14/1056.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] - BBC1</title>
+<title>[COLOR blue]FRANCE VS ROMANIA[/COLOR] LINK 6</title> ---- BEIN MAX 1
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/26.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] LINK 1</title> ---- TSN1
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/backuptsn1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] LINK 2</title> ---- BBC1
 <link>plugin://plugin.video.f4mTester/?url=http://bit.do/backupbbc1&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] - ESPN US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://c0mmandpr0tv.ddns.me:8000/live/test/test/1494.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] - BEIN FR 1</title>
+<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] LINK 3</title> ---- BEIN 1 FR
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/190.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] - NPO1</title>
+<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] LINK 4</title> ---- NPO1
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/1642.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] - ZDF</title>
+<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] LINK 5</title> ---- ZDF
 <link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgX/316.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR yellow]ALBANIA VS SWITZERLAND[/COLOR] LINK 6</title> ---- BEIN MAX 1
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/26.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
 
