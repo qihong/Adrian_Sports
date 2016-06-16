@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]AUSTRIA VS HUNGARY[/COLOR]</title>
+<title>[COLOR cyan]ENGLAND VS WALES[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/770.ts&amp;streamtype=TSDOWNLOADER</link> -- BBC1
 <link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/688.ts&amp;streamtype=TSDOWNLOADER</link> -- NPO1
@@ -15,8 +15,8 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR yellow]PORTUGAL VS ICELAND[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/453.ts&amp;streamtype=TSDOWNLOADER</link> -- BBC1
+<title>[COLOR yellow]UKRAINE VS NORTHERN IRELAND[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/770.ts&amp;streamtype=TSDOWNLOADER</link> -- ITV1
 <link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/688.ts&amp;streamtype=TSDOWNLOADER</link> -- NPO1
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
@@ -26,15 +26,21 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR cyan]RUSSIA VS SLOVAKIA[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/453.ts&amp;streamtype=TSDOWNLOADER</link> -- BBC1
-<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/214.ts&amp;streamtype=TSDOWNLOADER</link> -- BEIN 1 FR
+<title>[COLOR green]GERMANY VS POLAND[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/770.ts&amp;streamtype=TSDOWNLOADER</link> -- ITV1
+<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/688.ts&amp;streamtype=TSDOWNLOADER</link> -- NPO1
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------
 
-
+<item>
+<title>[COLOR blue]ITALY VS SWEDEN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/770.ts&amp;streamtype=TSDOWNLOADER</link> -- ITV1
+<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/688.ts&amp;streamtype=TSDOWNLOADER</link> -- NPO1
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
 
 
 
