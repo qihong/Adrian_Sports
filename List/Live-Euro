@@ -5,42 +5,46 @@
 </item>
 
 <item>
-<title>[COLOR cyan]ICELAND VS AUSTRIA[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2322.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN5
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1033.ts&amp;streamtype=TSDOWNLOADER</link> -- BEINFR2
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
+<title>[COLOR cyan]SWITZERLAND VS POLAND[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2206.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN4
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-----------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[COLOR green]HUNGARY VS PORTUGAL[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2321.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN3
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1032.ts&amp;streamtype=TSDOWNLOADER</link> -- BEINFR1
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi4 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 2
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2204.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN1
-<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
-</item>
-
-----------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[COLOR blue]ITALY VS IRELAND[/COLOR][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2322.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN5
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1032.ts&amp;streamtype=TSDOWNLOADER</link> -- BEINFR1
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2321.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN3
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1685.ts&amp;streamtype=TSDOWNLOADER</link> -- CTH1
 <link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2206.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN4
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR yellow]SWEDEN VS BELGIUM[/COLOR][/COLOR]</title>
+<title>[COLOR green]WALES VS NORTHERN IRELAND[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2206.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN4
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2322.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN5
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2321.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN3
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1033.ts&amp;streamtype=TSDOWNLOADER</link> -- BEINFR2
-<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi4 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 2
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2204.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN1
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1685.ts&amp;streamtype=TSDOWNLOADER</link> -- CTH1
+<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR blue]CROATIA VS PORTUGAL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2206.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN4
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2322.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN5
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2321.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN3
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1685.ts&amp;streamtype=TSDOWNLOADER</link> -- CTH1
+<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
+<thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
+</item>
+----------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR yellow]FRANCE VS IRELAND[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2206.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN4
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2322.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN5
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/2321.ts&amp;streamtype=TSDOWNLOADER</link> -- TSN3
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1685.ts&amp;streamtype=TSDOWNLOADER</link> -- CTH1
+<link>rtmp://119.81.19.107:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdWhhRFZ5SytycThacGlzQTdxYkdwbmtxVkdHMC9STG5sWUxYbWJ0aW9jMTJ3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/2?w=825&h=464|User-Agent=Mozilla/5.0</link> CTH 1
 <thumbnail>https://40.media.tumblr.com/7c16541dc22b07f43f41604ae8a7a820/tumblr_mp0jw9iGpm1r2syj2o1_500.jpg</thumbnail>
 </item>
 ----------------------------------------------------------------------------------------------------------------------------
