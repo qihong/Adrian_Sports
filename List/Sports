@@ -348,6 +348,36 @@
 </item>
 
 <item>
+<title>SPORT TV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hqiptv.spdns.eu:8000/live/manton71/OGHAP13eBa/33.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hqiptv.spdns.eu:8000/live/manton71/OGHAP13eBa/35.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hqiptv.spdns.eu:8000/live/manton71/OGHAP13eBa/37.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hqiptv.spdns.eu:8000/live/manton71/OGHAP13eBa/38.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hqiptv.spdns.eu:8000/live/manton71/OGHAP13eBa/39.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s32.postimg.org/fmeof9a9h/pr_source.png</thumbnail>
+</item>
+
+<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1276.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://pbs.twimg.com/profile_images/520285077947707393/NmGJEG13_400x400.png</thumbnail>
