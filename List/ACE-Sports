@@ -82,6 +82,12 @@
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
+<item>  
+<title>SKY SPORTS 1 - BACKUP</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&amp;mode=1&amp;name=sky1</link> 
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
+</item>
+
 <item>
 <title>SKY SPORTS 2</title>
 <link>plugin://program.plexus/?url=b45e9385c385ac249857e3e9002b9203e3ff910b&amp;mode=1&amp;name=AdrianSports</link>
