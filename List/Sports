@@ -180,6 +180,27 @@ item>
 </item>
 
 <item>
+<title>MATCH FUTBOL 1</title>
+<sportsdevil>http://singidunum.us/matchfutbol1.html</sportsdevil>
+<referer>http://singidunum.us/matchfutbol1.html</referer>
+<thumbnail>https://s32.postimg.org/6w6qxb78l/match_ru_futbol_1.png</thumbnail>
+</item>
+
+<item>
+<title>MATCH FUTBOL 2</title>
+<sportsdevil>http://singidunum.us/matchfutbol2.html</sportsdevil>
+<referer>http://singidunum.us/matchfutbol2.html</referer>
+<thumbnail>https://s32.postimg.org/jhaytm80l/match_ru_futbol_2.png</thumbnail>
+</item>
+
+<item>
+<title>MATCH FUTBOL 3</title>
+<sportsdevil>http://singidunum.us/matchfutbol3.html</sportsdevil>
+<referer>http://singidunum.us/matchfutbol3.html</referer>
+<thumbnail>https://s31.postimg.org/cw3lndraj/match_ru_futbol_3.png</thumbnail>
+</item>
+
+<item>
 <title>MIO STADIUM 102</title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4019.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://bit.do/bZ7Zj</thumbnail>
