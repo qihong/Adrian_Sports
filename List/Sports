@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ASTRO SUPERSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/868.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/869.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/870.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
-</item>
-
-item>
-<title>ASTRO SUPERSPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.87:8000/live/testy/testy/871.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
-</item>
-
-<item>
 <title>BEIN SPORTS 1 AR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/882.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s32.postimg.org/ubyz871x1/unnamed.png</thumbnail>
@@ -168,18 +144,6 @@ item>
 </item>
 
 <item>
-<title>FOX SPORTS 1 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4237.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://s31.postimg.org/k3e0f31jf/fs1.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4236.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://s32.postimg.org/q3s5nsfph/fs2.png</thumbnail>
-</item>
-
-<item>
 <title>MATCH FUTBOL 1</title>
 <sportsdevil>http://singidunum.us/matchfutbol1.html</sportsdevil>
 <referer>http://singidunum.us/matchfutbol1.html</referer>
@@ -198,48 +162,6 @@ item>
 <sportsdevil>http://singidunum.us/matchfutbol3.html</sportsdevil>
 <referer>http://singidunum.us/matchfutbol3.html</referer>
 <thumbnail>https://s31.postimg.org/cw3lndraj/match_ru_futbol_3.png</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 102</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4019.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 103</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4018.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 104</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4017.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 105</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4016.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 106</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4015.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 107</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4014.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
-</item>
-
-<item>
-<title>MIO STADIUM 108</title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/paulo/paulo/4013.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://bit.do/bZ7Zj</thumbnail>
 </item>
 
 <item>
